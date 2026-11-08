@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2026-claim-flow/commit/181e5778e0a350ba41b3b643ec747c517b95d90f",
       "git:hexsha": "181e5778e0a350ba41b3b643ec747c517b95d90f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
