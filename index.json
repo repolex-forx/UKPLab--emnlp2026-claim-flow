@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "emnlp2026-claim-flow",
+  "versions": [
+    {
+      "commit": "181e5778e0a350ba41b3b643ec747c517b95d90f",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:18:48.248341+00:00"
+    }
+  ]
+}
